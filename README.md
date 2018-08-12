@@ -1,5 +1,5 @@
 # Chatbot
-The repository contains code for implimentaion of a chatbot using **Recurrent Neural Network** with the help of **Attention Mechanism** to imporve accuravy of the bot
+The repository contains code for implimentaion of a chatbot using **Recurrent Neural Network** with the help of **Attention Mechanism** to imporve accuracy of the bot
 
 ## Contents
 - [Introduction](#introduction)
